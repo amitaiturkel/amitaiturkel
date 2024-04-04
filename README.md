@@ -12,6 +12,9 @@ Amitai Turkel, a passionate and driven second-year student pursuing a BSc in Com
 📂 GitHub: [amitaiturkel](https://github.com/amitaiturkel)  
 ✍️ Medium: [amitai.turkel](https://medium.com/@amitai.turkel)
 
+[![Amitai Turkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitaiturkel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Education
 
 **second year student in BSc Computer Science at Hebrew University**  
