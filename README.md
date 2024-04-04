@@ -14,8 +14,7 @@ Amitai Turkel, a passionate and driven second-year student pursuing a BSc in Com
 
 ## Education
 
-**BSc Computer Science**  
-currently at Hebrew University  
+**second year student in BSc Computer Science at Hebrew University**  
 
 ## Working At
 **University Teaching Assistant (C/C++ Tutor)**  
