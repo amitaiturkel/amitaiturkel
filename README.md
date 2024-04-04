@@ -15,12 +15,9 @@ Amitai Turkel, a passionate and driven second-year student pursuing a BSc in Com
 ## Education
 
 **BSc Computer Science**  
-Hebrew University  
-*10/2022 - Present*, GPA: 84  
+currently at Hebrew University  
 
-
-
-
+## Working At
 **University Teaching Assistant (C/C++ Tutor)**  
 Hebrew University of Jerusalem  
 - Assisting students in understanding fundamental concepts, debugging code, and completing assignments and projects.
@@ -32,35 +29,13 @@ Hebrew University of Jerusalem
 <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/e1c24264-a959-4819-b82a-81cbb85aea37" alt="FastApi" width="50" height="50"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/7588cfba-21eb-46b1-a51e-2e2c92e55904" alt="NATS" width="50" height="50"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/f3b3eccd-6366-4db1-b72f-14d44b29461f" alt="poetry" width="50" height="50"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/c4fee0c6-cf7c-42ea-b786-13e0da52f6f6" alt="Tox" width="50" height="50"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/1c7046b1-e7cf-4887-85bb-149669a347bf" alt="Numpy" width="50" height="50"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/03f70d6c-6121-463e-b249-db1f0b9acb60" alt="pytorch" width="50" height="50">
 
 
-
-
-
-
-
 ## Personal Projects
 
 **Personal Blog on Medium**  
-Regularly publish in-depth articles providing clear explanations of algorithms, accompanied by pseudocode examples, enhancing reader understanding! Sharing insights and experiences gained through academic studies, offering valuable perspectives on software development and technology trends! Continuously expand knowledge in software engineering and algorithm design, contributing to self-improvement and professional growth!
+Regularly publish in-depth articles providing clear explanations of algorithms, accompanied by pseudocode examples, enhancing reader understanding! Sharing insights and experiences gained through academic studies, offering valuable perspectives on software development and technology trends! Continuously expand knowledge in software engineering and algorithm design, contributing to self-improvement and professional growth! [Medium blog](medium.com/@amitai.turkel)
 
 **Git Projects**  
-Projects showcase an extensive skill set, encompassing Docker containerization, web communication using FastAPI, C and C++ development, and Python scripting, reflecting versatility and competence across multiple programming domains. [GitHub Projects](https://github.com/amitaiturkel)
-
-
-## Languages
-
-- Hebrew: Native or Bilingual Proficiency
-- English: Full Professional Proficiency
+My projects showcase an extensive skill set, encompassing Docker containerization, web communication using FastAPI, C and C++ development, and Python scripting. Additionally, I have experience with machine learning methods and have worked on projects that involve investigating and implementing ML algorithms. This reflects my versatility and competence across multiple programming domains, including software development and machine learning. [GitHub Projects](https://github.com/amitaiturkel)
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
