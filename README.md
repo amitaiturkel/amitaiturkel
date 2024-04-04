@@ -1,4 +1,4 @@
-![docker](https://github.com/amitaiturkel/amitaiturkel/assets/121823740/61c34006-baea-497e-b067-fc873970437c)# Amitai Turkel
+# Amitai Turkel
 
 Software Engineer - Second year Student
 
