@@ -2,7 +2,7 @@
 
 Software Engineer - Third year Student
 
-Amitai Turkel, a passionate and driven second-year student pursuing a BSc in Computer Science at Hebrew University. As a software engineer in the making, I've already begun crafting a diverse and broad skillset which includes Python, C, C++, and Java, coupled with essential tech tools like code management with Git, and development with Poetry, Tox, and Docker for using protocols like REST.
+Amitai Turkel, a passionate and driven third-year student pursuing a BSc in Computer Science at Hebrew University. As a software engineer in the making, I've already begun crafting a diverse and broad skillset which includes Python, C, C++, and Java, coupled with essential tech tools like code management with Git, and development with Poetry, Tox, and Docker for using protocols like REST.
 
 📧 Email: amitai.turkel@gmail.com  
 📞 Phone: 0534279419  
