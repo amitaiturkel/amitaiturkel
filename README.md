@@ -1,6 +1,6 @@
 # Amitai Turkel
 
-Junior Real-Time Software Engineer @ Mobileye | 🎓 B.Sc. Computer Science Student (Year 3)
+**Junior Real-Time Software Engineer @ Mobileye** | 🎓 **B.Sc. Computer Science Student (Year 3)**
 
 Amitai Turkel, a passionate and driven third-year student pursuing a BSc in Computer Science at Hebrew University. As a software engineer in the making, I've already begun crafting a diverse and broad skillset which includes Python, C, C++, and Java, coupled with essential tech tools like code management with Git, and development with Poetry, Tox, and Docker for using protocols like REST,RMDA,etc.
 
