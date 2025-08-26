@@ -1,8 +1,8 @@
 # Amitai Turkel
 
-Software Engineer - Third year Student
+Junior Real-Time Software Engineer @ Mobileye | 🎓 B.Sc. Computer Science Student (Year 3)
 
-Amitai Turkel, a passionate and driven third-year student pursuing a BSc in Computer Science at Hebrew University. As a software engineer in the making, I've already begun crafting a diverse and broad skillset which includes Python, C, C++, and Java, coupled with essential tech tools like code management with Git, and development with Poetry, Tox, and Docker for using protocols like REST.
+Amitai Turkel, a passionate and driven third-year student pursuing a BSc in Computer Science at Hebrew University. As a software engineer in the making, I've already begun crafting a diverse and broad skillset which includes Python, C, C++, and Java, coupled with essential tech tools like code management with Git, and development with Poetry, Tox, and Docker for using protocols like REST,RMDA,etc.
 
 📧 Email: amitai.turkel@gmail.com  
 📞 Phone: 0534279419  
@@ -16,12 +16,21 @@ Amitai Turkel, a passionate and driven third-year student pursuing a BSc in Comp
 
 ## Education
 
-**second year student in BSc Computer Science at Hebrew University**  
+**Third year student in BSc Computer Science at Hebrew University**  
 
-## Working At
-**University Teaching Assistant (C/C++ Tutor)**  
-Hebrew University of Jerusalem  
-- Assisting students in understanding fundamental concepts, debugging code, and completing assignments and projects.
+## 💼 Experience
+
+**Junior Real-Time Software Engineer**  
+*Mobileye(2024-2025)*  
+- Develop and maintain **performance-critical C/C++ code** on custom hardware platforms.  
+- Utilize **Bazel** for large-scale builds and manage complex dependencies.  
+- Focus on **low-level programming**, including debugging and optimization of embedded systems.  
+
+**Teaching Assistant – C/C++ Programming(2023-2024)**  
+*Hebrew University of Jerusalem*  
+- Assisted students in understanding **data structures, memory management, and debugging techniques**.  
+- Supported students in completing assignments and projects, fostering a deeper understanding of programming concepts.
+
 
 ## Skills
 <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/335fa1e8-2a8a-46be-ac24-9a01010d379b" alt="python photo" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/a4ec351c-c8e7-48e0-ab9a-44cebfaf96ef" alt="C" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/c6475513-88d8-4627-92bb-907a567ed3ad" alt="C++" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/05efd90c-dfcc-4a9f-965f-04e908a0b946" alt="Java" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/2b2bffa8-698b-4902-b610-d6346def351e" alt="rest" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/ec304d58-47c8-4d1b-8d58-597b6b0a6302" alt="Docker" width="60" height="60"> <img src="https://github.com/amitaiturkel/amitaiturkel/assets/121823740/6666f735-af2c-4052-9628-da2a0344ecf7" alt="git" width="60" height="60">
